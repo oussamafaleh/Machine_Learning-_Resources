@@ -27,6 +27,6 @@ Develop Deep Learning Models for Natural Language in Python `(not have)`
 13. XGBoost With Python
 Gradient Boosted Trees With XGboost and scikit-learn `(not have)`
 
-others resouces, others writer but same theme :
-14. Statistics and Machine Learning in Python, Edouard Duchesnay
-15. Deep Learning & NLP Resources, Dragomir Radev
+others resouces, others writer but same theme :\
+14. Statistics and Machine Learning in Python, Edouard Duchesnay\
+15. Deep Learning & NLP Resources, Dragomir Radev\

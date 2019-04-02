@@ -23,7 +23,7 @@ Develop Sequence Prediction Models With Deep Learning `(not have)`
 11. Deep Learning for Time Series Forecasting
 Predict the Future With MLPs, CNNs, and LSTMs in Python `(not have)`
 12. Deep Learning for Natural Language Processing
-Develop Deep Learning Models for Natural Language in Python `(not have)`
+Develop Deep Learning Models for Natural Language in Python
 13. XGBoost With Python
 Gradient Boosted Trees With XGboost and scikit-learn `(not have)`
 
